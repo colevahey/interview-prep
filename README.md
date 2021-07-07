@@ -1,2 +1,3 @@
 # interview-prep
-New repo for the interview practice materials I decide to mess with
+A collection of the different interview questions I practice
+with so that I can look back on them in the future
