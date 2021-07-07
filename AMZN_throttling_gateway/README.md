@@ -24,14 +24,14 @@ for future calculations. Although, if a request is to be
 dropped due to multiple violations, it is still counted only
 once.  
 
-### Solution Input
+### Sample Input
 ```Python3
 n = 27
 requestTime = [1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5,
 5, 6, 6, 6, 7, 7, 7, 7, 11, 11, 11, 11]
 ```
 
-### Solution Output
+### Sample Output
 ```Python3
 # Request 1 - Not dropped
 # Request 1 - Not dropped

@@ -9,12 +9,12 @@ Ex:
 7   6   5   1        1    5  6    7 
 ```
 
-### Solution Input
+### Sample Input
 ```
 root = [4,2,7,1,3,6,9]
 ```
 
-### Solution Output
+### Sample Output
 ```
 [4,7,2,9,6,3,1]
 ```

@@ -8,12 +8,12 @@ most `limit`.
 
 Return *the minimum number of boats to carry every person*  
 
-### Solution Input
+### Sample Input
 ```Python3
 people = [1, 2, 7, 3, 4, 4, 1, 5], limit = 8
 ```
 
-### Solution Output
+### Sample Output
 ```Python3
 4 ([1,7], [1,5], [2,4], 3,4])
 ```

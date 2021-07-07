@@ -11,12 +11,12 @@ repeats them forever.
 Return `true` if and only if there exists a circle in the
 plane such that the robot never leaves the circle.
 
-### Solution Input
+### Sample Input
 ```Python3
 instructions = "GGLLGG"
 ```
  
-### Solution Output
+### Sample Output
 ```Python3
 True
 # The robot moves to (0, 2) and then returns to (0, 0)

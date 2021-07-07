@@ -8,7 +8,7 @@ following rules**:
 3. Each of the nine `3 x 3` sub-boxes of the grid must
    contain the digits `1-9` without repetition  
 
-### Solution Input
+### Sample Input
 ```Python3
 board = 
 [["5","3",".",".","7",".",".",".","."]
@@ -22,7 +22,7 @@ board =
 ,[".",".",".",".","8",".",".","7","9"]]
 ```
 
-### Solution Output
+### Sample Output
 ```Python3
 True
 ```
