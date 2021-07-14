@@ -12,6 +12,8 @@ A **leaf** is a node with no children
         4               8
   11                13      4
 7   2                         1
+
+targetSum = 22
 ```
 
 ### Sample Output
